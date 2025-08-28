@@ -4,13 +4,10 @@
 
 - <b>Power BI</b>
   - [Adventure Works Sales Analysis](https://github.com/Pranav1419/Power-BI-Adventure-Works-project)
-- <b>Microsoft Excel (Coffee Sales Dashboard)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>MySQL (Library Database)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Microsoft Excel</b>
+  - [Coffee Sales Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>MySQL</b>
+  - [Library Database](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
 
