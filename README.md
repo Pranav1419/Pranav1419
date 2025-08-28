@@ -5,7 +5,7 @@
 - <b>Power BI</b>
   - [Adventure Works Sales Analysis](https://github.com/Pranav1419/Power-BI-Adventure-Works-project)
 - <b>Microsoft Excel</b>
-  - [Coffee Sales Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Coffee Sales Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>MySQL</b>
   - [Library Database](https://github.com/joshmadakor1/Sentinel-Lab)
   
