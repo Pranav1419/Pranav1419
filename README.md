@@ -1,9 +1,9 @@
-<h1>Hi, I'm Pranav! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a>
+<h1>Hi, I'm Pranav! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>
 
 <h2>👨‍💻 Data Analyst Projects</h2>
 
-- <b>Power BI (Adventure Works Sales Analysis)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Power BI</b>
+  - [Adventure Works Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Microsoft Excel (Coffee Sales Dashboard)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>MySQL (Library Database)</b>
