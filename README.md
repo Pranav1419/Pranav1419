@@ -6,8 +6,6 @@
   - [Adventure Works Sales Analysis](https://github.com/Pranav1419/Power-BI-Adventure-Works-project)
 - <b>Microsoft Excel</b>
   - [Coffee Sales Dashboard](https://github.com/Pranav1419/Coffee-Sales-Dashboard)
-- <b>MySQL</b>
-  - [Library Database](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
 
