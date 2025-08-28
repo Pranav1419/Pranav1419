@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects</h2>
 
 - <b>Power BI</b>
-  - [Adventure Works Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Adventure Works Sales Analysis](https://github.com/Pranav1419/Power-BI-Adventure-Works-project)
 - <b>Microsoft Excel (Coffee Sales Dashboard)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>MySQL (Library Database)</b>
