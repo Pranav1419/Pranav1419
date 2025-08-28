@@ -16,7 +16,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: http://www.linkedin.com/in/bala-pranav
+[linkedin]: https://www.linkedin.com/in/bala-pranav
 
 <!--
 **Pranav1419/Pranav1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
