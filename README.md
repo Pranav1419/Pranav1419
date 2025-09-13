@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pranav! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>
+<h1>Hi, I'm Pranav! <br/><a href="https://github.com/Pranav1419">Data Scientist</a>
 
 <h2>👨‍💻 Data Analyst Projects</h2>
 
